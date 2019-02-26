@@ -1,0 +1,15 @@
+.row {
+  background: #D5DBDB;
+  border-style: groove #34495E;
+  height: 50px;
+}
+
+.space {
+  padding-bottom: 18px;
+}
+
+.space-center {
+  padding: 18px;
+  border-bottom: 1px solid #34495E;
+  margin-bottom: 18px;
+}
